@@ -1,0 +1,32 @@
+.body {
+ font-family: 'PT Sans Caption', sans-serif;
+}
+
+.header {
+ display: flex;
+ justify-content: space-between;
+}
+
+.logo,
+.menu {
+ display: inline-block;
+}
+
+.logo {
+ position: relative;
+}
+
+
+
+.logo_square_logo_square_color_dark-orange {
+ background: #E89C38;
+}
+  
+.logo_square_logo_square_color_orange {
+ background: #FFBE4D;
+}
+
+.main__title {
+ font-size: 40px;
+ line-height: 52px;
+}
